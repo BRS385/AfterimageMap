@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/AfterimageMap/static/css/main.92bf99cc.css",
-    "main.js": "/AfterimageMap/static/js/main.c56ff462.js",
+    "main.js": "/AfterimageMap/static/js/main.37286468.js",
     "static/media/ChestManaPotionDessert.png": "/AfterimageMap/static/media/ChestManaPotionDessert.c5537c56e0fe00b8dbc0.png",
     "static/media/MediumHealthPotion.png": "/AfterimageMap/static/media/MediumHealthPotion.2ba04c486e3f32ee0d9f.png",
     "static/media/ManaPotion.png": "/AfterimageMap/static/media/ManaPotion.35dc2091a3c8aea2712f.png",
@@ -9,14 +9,12 @@
     "static/media/NamelessPrismaticBone.png": "/AfterimageMap/static/media/NamelessPrismaticBone.58fa164764050e29144e.png",
     "static/media/DivineLeafFragment.png": "/AfterimageMap/static/media/DivineLeafFragment.3b1c55aa86ad962149bc.png",
     "static/media/ChestMarker.png": "/AfterimageMap/static/media/ChestMarker.2f6a5a76d1d09ede4597.png",
-    "static/media/openSettings.svg": "/AfterimageMap/static/media/openSettings.32c7150bf4f7181cf637352ad4f5120c.svg",
-    "static/media/mapMarkers.svg": "/AfterimageMap/static/media/mapMarkers.a386cc6781001153add86bdafc10b8dd.svg",
     "index.html": "/AfterimageMap/index.html",
     "main.92bf99cc.css.map": "/AfterimageMap/static/css/main.92bf99cc.css.map",
-    "main.c56ff462.js.map": "/AfterimageMap/static/js/main.c56ff462.js.map"
+    "main.37286468.js.map": "/AfterimageMap/static/js/main.37286468.js.map"
   },
   "entrypoints": [
     "static/css/main.92bf99cc.css",
-    "static/js/main.c56ff462.js"
+    "static/js/main.37286468.js"
   ]
 }
